@@ -26,3 +26,10 @@ dist
 .tmp
 app/bower_components
 test
+.bowerrc
+.editorconfig
+.gitattributes
+.jshintrc
+.yo-rc.json
+bower.json
+package.json
