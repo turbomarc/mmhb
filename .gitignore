@@ -31,5 +31,3 @@ test
 .gitattributes
 .jshintrc
 .yo-rc.json
-bower.json
-package.json
